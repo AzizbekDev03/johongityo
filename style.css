@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #70ff7e;
+}
+
+.tube {
+  width: 400px;
+  background-color: #001ebd;
+  text-align: center;
+  padding: 26px 0;
+  border-radius: 20px;
+  margin: 31px auto;
+}
+
+.tube > h2 {
+  font-size: 48px;
+  color: white;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.Avoot > center > div {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.Avoot {
+  margin: 0 auto;
+  background-color: black;
+  width: 400px;
+  padding: 69px 0;
+  border-radius: 10px;
+}
+
+.Door {
+  margin: 20px 0;
+  background-color: yellow;
+  border-radius: 50%;
+  border: 4px solid rgb(73, 240, 73);
+}
+
+.Map {
+  background-color: red;
+  border-radius: 5%;
+  border: 4px solid rgb(73, 240, 73);
+}
+
+.Put {
+  background-color: chartreuse;
+
+  border: 4px solid rgb(73, 240, 73);
+}
+
+.foot {
+  height: 290px;
+  width: 50px;
+  background-color: grey;
+  margin: 0 auto;
+}
